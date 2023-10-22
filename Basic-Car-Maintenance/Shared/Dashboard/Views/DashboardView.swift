@@ -46,6 +46,9 @@ struct DashboardView: View {
                             Image(systemName: "trash")
                         }
                         
+
+
+						
                         Button {
                             selectedMaintenanceEvent = event
                             isShowingEditView = true
